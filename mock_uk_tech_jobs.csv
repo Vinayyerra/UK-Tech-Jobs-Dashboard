@@ -1,0 +1,121 @@
+Role,Location,Salary,Skills,Date Posted
+Data Analyst,London,53024,"Power BI, Excel",2024-07-18
+Data Analyst,Remote,40697,"Spark, Python, TensorFlow, AWS",2024-06-14
+Machine Learning Engineer,Remote,74453,"AWS, Power BI",2024-07-16
+Data Engineer,Leeds,49446,"Tableau, Python, Spark",2024-07-22
+Machine Learning Engineer,Leeds,57298,"Excel, Power BI, Spark",2024-06-22
+Data Analyst,London,59898,"R, AWS",2024-07-09
+BI Analyst,London,65108,"SQL, Spark, Python, Tableau",2024-06-19
+Data Engineer,Birmingham,72837,"SQL, Python",2024-07-13
+Machine Learning Engineer,Birmingham,40229,"SQL, Spark",2024-06-18
+Data Scientist,Birmingham,45659,"R, Power BI, AWS",2024-06-18
+Data Analyst,Remote,76613,"AWS, Power BI",2024-06-11
+Data Scientist,Leeds,52691,"AWS, Power BI, R, Excel",2024-07-24
+Data Analyst,Manchester,37103,"Spark, Tableau, Python",2024-06-14
+Data Engineer,Birmingham,48934,"TensorFlow, Spark, R, Power BI",2024-06-10
+BI Analyst,Manchester,51162,"AWS, Tableau, R, TensorFlow",2024-06-28
+Data Engineer,Leeds,58723,"Excel, TensorFlow",2024-06-06
+Data Analyst,London,45016,"Excel, Spark, Tableau, Python",2024-06-25
+Data Scientist,Remote,65674,"Tableau, Python, R, Spark",2024-06-08
+Data Engineer,Birmingham,77006,"SQL, Tableau, Power BI",2024-06-11
+Data Scientist,London,52261,"Excel, SQL, Spark, R",2024-06-20
+Data Engineer,Remote,48035,"R, Excel",2024-07-05
+Data Engineer,London,74252,"TensorFlow, Python, AWS",2024-07-30
+BI Analyst,Birmingham,50692,"Power BI, SQL",2024-06-06
+Data Scientist,London,69911,"Excel, TensorFlow",2024-07-31
+Data Engineer,Manchester,52370,"Spark, Power BI, Tableau, R",2024-07-15
+Machine Learning Engineer,Birmingham,61148,"R, TensorFlow, Tableau, Power BI",2024-06-08
+Machine Learning Engineer,Manchester,39196,"Python, Power BI, Tableau",2024-06-15
+Data Analyst,London,76359,"Power BI, SQL",2024-07-28
+Data Analyst,Birmingham,39643,"Power BI, Tableau, R, AWS",2024-06-14
+Data Engineer,Manchester,72423,"TensorFlow, Power BI, Spark, AWS",2024-07-22
+Data Scientist,Manchester,41181,"Spark, R",2024-06-28
+Data Scientist,Leeds,38550,"SQL, Python, Power BI, R",2024-06-22
+Data Analyst,Manchester,47556,"AWS, TensorFlow",2024-06-09
+Data Scientist,Manchester,53254,"Power BI, SQL, AWS",2024-07-22
+Data Engineer,London,38315,"AWS, Python, TensorFlow, SQL",2024-06-11
+Data Scientist,Leeds,66546,"Spark, Python",2024-06-11
+Data Scientist,London,60586,"TensorFlow, Tableau, Power BI",2024-07-15
+Data Engineer,Leeds,45144,"Tableau, Power BI",2024-06-04
+Data Engineer,Remote,38994,"R, Python, TensorFlow, Tableau",2024-07-01
+Data Engineer,Remote,45317,"AWS, SQL",2024-07-25
+Machine Learning Engineer,London,73996,"Power BI, Spark",2024-06-08
+Data Engineer,Manchester,72940,"Python, SQL, Power BI, R",2024-07-08
+Data Engineer,Remote,55733,"Power BI, R, SQL",2024-06-17
+Data Scientist,Manchester,79019,"Tableau, TensorFlow, Excel, Python",2024-06-01
+Data Scientist,Remote,71896,"SQL, Power BI",2024-07-03
+BI Analyst,Manchester,57872,"Power BI, R",2024-06-19
+Machine Learning Engineer,Leeds,70600,"Tableau, Python, R, AWS",2024-06-20
+Data Analyst,Manchester,52332,"SQL, Excel",2024-06-18
+BI Analyst,Remote,48803,"R, Power BI, AWS, Spark",2024-07-25
+BI Analyst,Remote,67016,"Python, SQL, R",2024-06-28
+BI Analyst,London,35232,"Excel, Tableau, SQL",2024-07-18
+Data Scientist,Remote,63028,"Python, SQL, AWS, R",2024-07-28
+Machine Learning Engineer,Remote,37361,"AWS, Excel, Power BI",2024-06-09
+Data Analyst,Birmingham,58897,"R, Power BI",2024-07-14
+Machine Learning Engineer,London,58178,"Spark, Excel, SQL, AWS",2024-07-22
+Machine Learning Engineer,Leeds,36624,"R, Spark",2024-07-22
+Machine Learning Engineer,Birmingham,45433,"SQL, Spark, TensorFlow, Python",2024-07-25
+Data Scientist,Manchester,48079,"R, Tableau, Spark",2024-07-21
+Machine Learning Engineer,Manchester,36550,"Power BI, Spark, Excel, TensorFlow",2024-07-26
+Data Analyst,Birmingham,58012,"AWS, Spark, R, Tableau",2024-06-22
+Data Analyst,London,52118,"Tableau, Python",2024-06-07
+Data Engineer,Leeds,57654,"R, Spark, Tableau, TensorFlow",2024-06-08
+Data Scientist,Remote,47457,"Python, Spark, AWS",2024-07-04
+Data Engineer,Manchester,58869,"SQL, R, Tableau",2024-06-21
+Data Analyst,Birmingham,68234,"Spark, R, Power BI",2024-07-15
+BI Analyst,Remote,43341,"Spark, AWS",2024-07-14
+Machine Learning Engineer,Remote,72296,"Spark, Python, Excel",2024-06-19
+Machine Learning Engineer,Leeds,73009,"R, TensorFlow, Power BI, Spark",2024-07-14
+Machine Learning Engineer,Remote,66010,"Excel, SQL, AWS, Tableau",2024-07-13
+Data Engineer,Birmingham,41120,"Tableau, Power BI",2024-07-22
+Machine Learning Engineer,Manchester,36600,"Power BI, TensorFlow",2024-07-10
+Data Analyst,Leeds,62160,"Power BI, Spark, AWS, TensorFlow",2024-06-16
+Machine Learning Engineer,London,41985,"Power BI, Excel, Spark",2024-07-15
+Data Engineer,Leeds,38291,"Power BI, SQL, AWS, TensorFlow",2024-07-22
+Data Scientist,Remote,71629,"R, TensorFlow, Tableau, AWS",2024-07-28
+Data Engineer,Leeds,70905,"Excel, TensorFlow, Power BI",2024-06-17
+Machine Learning Engineer,Birmingham,69163,"Power BI, Tableau, AWS",2024-06-05
+BI Analyst,Manchester,52807,"R, SQL, TensorFlow",2024-06-10
+Machine Learning Engineer,Leeds,45014,"Power BI, SQL, AWS, Spark",2024-06-22
+Data Engineer,Leeds,62248,"Power BI, Spark",2024-06-25
+Data Engineer,London,72728,"TensorFlow, Python, Excel",2024-06-20
+Data Scientist,Leeds,70272,"AWS, Power BI, TensorFlow, SQL",2024-06-18
+Data Scientist,Leeds,36902,"R, Spark, AWS",2024-06-11
+Data Scientist,Manchester,75780,"Python, Spark, Tableau, TensorFlow",2024-07-13
+Data Analyst,London,77123,"Excel, TensorFlow, SQL",2024-06-04
+BI Analyst,Leeds,56453,"TensorFlow, R",2024-06-22
+Data Scientist,Birmingham,62627,"SQL, TensorFlow, Python",2024-07-18
+Data Engineer,London,57935,"SQL, Python",2024-07-19
+Data Analyst,Manchester,48065,"Excel, Power BI",2024-06-09
+Data Scientist,London,71960,"TensorFlow, Tableau",2024-07-20
+BI Analyst,Manchester,74707,"SQL, Excel, TensorFlow, Python",2024-07-08
+Data Analyst,Birmingham,72735,"Spark, AWS, R, SQL",2024-06-05
+Data Engineer,Manchester,41678,"Tableau, SQL, Spark, AWS",2024-07-21
+Data Analyst,Birmingham,69913,"R, SQL, Tableau",2024-07-12
+BI Analyst,London,62528,"SQL, Spark, Excel",2024-07-11
+Data Scientist,Manchester,63540,"AWS, Tableau",2024-07-10
+Data Engineer,Leeds,65465,"Tableau, R, Spark",2024-06-16
+Data Analyst,Birmingham,64543,"TensorFlow, Spark",2024-06-22
+Data Analyst,Leeds,56300,"TensorFlow, Power BI",2024-06-23
+BI Analyst,Birmingham,53327,"Tableau, Python, AWS, SQL",2024-06-06
+Machine Learning Engineer,Leeds,67019,"Power BI, TensorFlow, R, Spark",2024-07-02
+Data Scientist,London,41098,"Power BI, Spark, R",2024-06-16
+BI Analyst,Remote,59184,"AWS, R, Power BI",2024-07-18
+Data Engineer,Birmingham,58056,"TensorFlow, Tableau, Excel, Spark",2024-06-15
+Data Analyst,Manchester,55679,"AWS, Excel",2024-06-13
+Machine Learning Engineer,Leeds,53120,"AWS, Tableau, Python, SQL",2024-06-19
+Machine Learning Engineer,Birmingham,46759,"Python, Excel, TensorFlow",2024-06-03
+Data Analyst,Remote,54145,"Excel, TensorFlow, Python, Spark",2024-07-07
+BI Analyst,Leeds,66373,"R, Excel, Python",2024-06-17
+Data Scientist,London,39282,"TensorFlow, SQL, Tableau",2024-07-11
+Data Analyst,Manchester,44777,"Tableau, SQL, TensorFlow, Python",2024-07-06
+Data Scientist,Remote,74067,"Power BI, Spark, AWS, TensorFlow",2024-06-20
+Data Engineer,Leeds,55013,"Python, SQL, Spark, TensorFlow",2024-07-11
+Machine Learning Engineer,Birmingham,78281,"Excel, Power BI",2024-06-12
+Data Engineer,London,45258,"Spark, TensorFlow",2024-07-15
+Data Engineer,Leeds,54087,"Power BI, Tableau",2024-07-16
+BI Analyst,Leeds,39664,"Power BI, Tableau, Spark, R",2024-07-08
+Machine Learning Engineer,Leeds,42521,"Power BI, Excel, TensorFlow, SQL",2024-06-05
+Data Analyst,Manchester,55159,"Tableau, TensorFlow, Python, Power BI",2024-07-15
+BI Analyst,Leeds,52841,"AWS, TensorFlow, Power BI, Python",2024-07-09
